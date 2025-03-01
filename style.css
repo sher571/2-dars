@@ -1,0 +1,28 @@
+h1{
+    border: 1px solid black;
+    width: 400px;
+    height: 45px;
+    margin-left: 500px;
+    text-align: center;
+    background-color: #311313;
+    color: white;
+}
+.c1{
+    width: 900px;
+    height: 538px;
+    border: 8px solid #FF0606;
+    margin-left: 250px;
+    background-color: #000000;
+}
+.b{
+    border: 3px solid #1FE8B7;
+    width: 830px;
+    height: 220px;
+    margin: 30px;
+    background-color: #1FE8B7;
+    
+}
+h2{
+    padding-top: 15px;
+    padding-left: 15px;
+}
